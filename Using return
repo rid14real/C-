@@ -1,0 +1,17 @@
+using System;
+
+namespace Return
+{
+  class Program
+  {
+    static void Main(string[] args)
+    {
+      DecoratePlanet("Jupiter");
+    }
+    static string DecoratePlanet(string planet)
+    {
+      return planet;
+      Console.WriteLine($"*.*.* Welcome to {planet} *.*.*");
+    }
+	}
+}
