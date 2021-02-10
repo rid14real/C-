@@ -1,0 +1,10 @@
+//Introducing the lawyer, software developer, and blockchain developer 
+Console.WriteLine("Coding on my mobile phone");
+string firstName = "Ridwan";
+string lastName = "Badmus";
+if(firstName == "Ridwan" && lastName == "Badmus")
+    Console.WriteLine("He is the legal technologist");
+else
+    Console.WriteLine("I don't know this person");
+
+//It was a pleasure meeting you. Have a nice day! 
